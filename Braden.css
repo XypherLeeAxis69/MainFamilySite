@@ -1,0 +1,37 @@
+h1{text-align: center;font-family: Roboto Condensed; color:darkgreen;}
+body{ background:url(brothers.jpg);  background-size: 100%; height:auto;}
+.test{margin-top: 2000px;}
+.down{ color:blue; font-size: 30px; position: absolute;margin-top: 340px;}
+.down2{position: absolute; margin-left: 280px; margin-top:283px; color:silver;}
+
+.Braden{position: absolute; border:10px solid; color: darkgreen; border-radius:100px; border-width:3.5px;}
+
+.my-brother {position: absolute; border:50px dashed; color: darkgreen; border-radius:70px; border-width:5px; margin-top: 1300px;}
+
+.Naruto-and-Sasuke{position: absolute; margin-left: 1560px;}
+
+.foolish-little-brother{position: absolute; margin-top:1796px;margin-left:1694px; }
+
+
+.video10{position: absolute;margin-top:1460px;margin-left:300px; color:#FFCBA4;}
+
+.video9{position: absolute;margin-top:1400px;margin-left:1158px;color:silver;}
+
+.video8{position: absolute; margin-bottom: 150px; margin-left: 920px; margin-top: 130px; color:orange;}
+
+.video7{position: absolute;margin-top: 875px; margin-left: 990px; color:lightgreen;}
+
+.video6{position: absolute; margin-top:1700px; margin-left:1114px;}
+
+.video5 {position:absolute; margin-top:1700px; margin-left:565px;}
+
+.video4 {margin-top: 1700px;position: absolute; margin-left:0px;}
+
+.video3 {margin-top: 1000px; margin-left:220px;position: absolute; color:red;}
+
+.video2 {margin-left: 1190px; margin-top:640px; margin-bottom:300px; position: absolute; color:#0099FF; }
+
+
+.video1{ margin-left: 780px; margin-top:500px; margin-bottom:300px; position: absolute; color:lightblue; }
+
+h4{color:#00CCFF;text-decoration-style: double; text-decoration-line: underline overline; text-decoration-color: orange;
